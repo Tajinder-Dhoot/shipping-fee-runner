@@ -11,7 +11,7 @@
     {
         "cart": {
             "amount": 35,
-            "couponDiscount": 6
+            "couponDiscount": 5
         },
         "deliveryMethod": "pickup",
         "membershipActive": false
