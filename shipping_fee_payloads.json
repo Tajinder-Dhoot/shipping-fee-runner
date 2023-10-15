@@ -1,0 +1,215 @@
+[
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 6
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": false
+    },
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": false
+    },
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": false
+    }
+    ,
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "pickup",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "standard",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 30,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 35,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 40,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": true
+    }
+    ,
+    {
+        "cart": {
+            "amount": 45,
+            "couponDiscount": 5
+        },
+        "deliveryMethod": "prime",
+        "membershipActive": true
+    }
+]
